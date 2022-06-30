@@ -1,2 +1,2 @@
-# Prinft-f-project-bryan-cole-zamya
+# holbertonschool-printf
 making our own printf
